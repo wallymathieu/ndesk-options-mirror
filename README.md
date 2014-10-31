@@ -1,4 +1,4 @@
-NDesk.Options
+NDesk.Options [![Build status](https://ci.appveyor.com/api/projects/status/w6yvehebtni2h39n/branch/master?svg=true)](https://ci.appveyor.com/project/wallymathieu/ndesk-options-mirror/branch/master)
 =============
 
 NDesk.Options is a program option parser for C#.
