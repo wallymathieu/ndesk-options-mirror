@@ -35,7 +35,7 @@ using System.IO;
 #if NDESK_OPTIONS
 using NDesk.Options;
 #else
-using Mono.Options
+using Mono.Options;
 #endif
 
 using NUnit.Framework;
