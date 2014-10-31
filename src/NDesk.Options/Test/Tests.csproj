@@ -7,7 +7,6 @@
     <OutputType>Library</OutputType>
     <RootNamespace>NDesk.Options</RootNamespace>
     <AssemblyName>NDesk.Options</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

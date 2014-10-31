@@ -7,14 +7,14 @@
     <OutputType>Library</OutputType>
     <RootNamespace>NDesk.Options</RootNamespace>
     <AssemblyName>NDesk.Options</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>bin\Debug</OutputPath>
-    <DefineConstants>DEBUG;NDESK_OPTIONS;LINQ;</DefineConstants>
+    <DefineConstants>DEBUG;NDESK_OPTIONS;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ConsolePause>false</ConsolePause>
@@ -25,7 +25,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ConsolePause>false</ConsolePause>
-    <DefineConstants>NDESK_OPTIONS;LINQ;</DefineConstants>
+    <DefineConstants>NDESK_OPTIONS;</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
